@@ -1,1 +1,2 @@
 this is file2.txt created in branch
+Changes in master
